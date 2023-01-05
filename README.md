@@ -1,4 +1,4 @@
-# R Shiny App For Customer Segmentation
+# Customer Segmentation - R Shiny App
 
 <img src="https://i.imgur.com/5CD2fij.png" />
 
