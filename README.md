@@ -25,7 +25,7 @@ This project demonstrates how R Shiny Apps may be used to automate customer segm
 2. Clone the project: Run this from the command line
  
  ```commandline
- git clone https://github.com/graphshade/Customer-segmentation---R-Shiny-App.git
+ git clone https://github.com/graphshade/customer_segmentation_shiny_app.git
  ```
  
 3. Install Required Libraries Using Virtual Environment: 
