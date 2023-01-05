@@ -1,5 +1,7 @@
 # R Shiny App For Customer Segmentation
 
+<img src="https://i.imgur.com/5CD2fij.png" />
+
 <h2>Description</h2>
 Customer segmentation is the process of dividing a broad consumer or business market, normally consisting of existing and potential customers, into sub-groups up based on common characteristics – such as demographics or behaviors, so your marketing team or sales team can reach out to those customers more effectively.
 <br></br>
@@ -33,34 +35,22 @@ This project demonstrates how R Shiny Apps may be used to automate customer segm
    2. In the RStudio console run `renv::init()` to initiate the renv virtual environment and install the required libraries from the [renv.lock](https://github.com/graphshade/Customer-segmentation---R-Shiny-App/blob/master/renv.lock) file 
 
 4. Run the app
- From the left corner of your RStudio, click on <kbd> <br> Run App <br>
- <img src="https://imgur.com/joDk1QA" height="80%" width="80%" alt="Run App"/>
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+ From the left corner of your RStudio, click on <kbd> <br> Run App
+ 
+   When the app run properly, you'll see
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+   <img src="https://i.imgur.com/tLHZa7K.png" />
+
+ 5. Following the instructions from the left panel, you may upload the `sample_dataset.csv` file
+ 
+ 6. After uploading the dataset, you can use tha tabs in the right panel to view the results
+ 
+    <b>Customer Segmentation Results Tab</b>
+ 
+    <img src="https://i.imgur.com/GI53Iel.png" />
+ 
+    <b>Cluster Visualization Tab</b>
+ 
+    <img src="https://i.imgur.com/5CD2fij.png" />
+ </p>
+ 
