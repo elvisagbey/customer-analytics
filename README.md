@@ -14,7 +14,7 @@ This project demonstrates how R Shiny Apps may be used to automate customer segm
 
 <h2>Environments Used </h2>
 
-- <b>Ubuntu 18.04.1 LTS</b> (21H2)
+- <b>Ubuntu 18.04.1 LTS</b>
 
 <h2>Program walk-through:</h2>
 
