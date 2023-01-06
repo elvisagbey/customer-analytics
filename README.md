@@ -12,7 +12,7 @@ This project demonstrates how R Shiny Apps may be used to automate customer segm
 - R programming language 
 - [List of libraries](https://github.com/graphshade/Customer-segmentation---R-Shiny-App/blob/master/renv.lock)
 
-<h2>Environments Used </h2>
+<h2>Environment Used </h2>
 
 - <b>Ubuntu 18.04.1 LTS</b>
 
