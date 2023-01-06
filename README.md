@@ -7,7 +7,7 @@ Customer segmentation is the process of dividing a broad consumer or business ma
 <br></br>
 This project demonstrates how R Shiny Apps may be used to automate customer segmentation using advanced clustering algorithms such as K-means.
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages and Libraries Used</h2>
 
 - R programming language 
 - [List of libraries](https://github.com/graphshade/Customer-segmentation---R-Shiny-App/blob/master/renv.lock)
